@@ -1,5 +1,5 @@
-- name: set {{ component }} server
-  hosts: "{{ component }}"
+- name: set mongodb server
+  hosts: mongodb
   become: yes
   roles:
-  - "{{ component }}"
+  - mongodb
