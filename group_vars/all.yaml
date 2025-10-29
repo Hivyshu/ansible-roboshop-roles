@@ -1,3 +1,5 @@
 MONGODB_HOST: mongodb.vydevops.space
 REDIS_HOST: redis.vydevops.space
 CATALOGUE_HOST: catalogue.vydevops.space
+CART_HOST: cart.vydevops.space
+MYSQL_HOST: mysql.vydevops.space
