@@ -1,0 +1,3 @@
+MONGODB_HOST: mongodb.vydevops.space
+REDIS_HOST: redis.vydevops.space
+CATALOGUE_HOST: catalogue.vydevops.space
