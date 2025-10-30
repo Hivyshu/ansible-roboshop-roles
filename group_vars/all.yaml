@@ -3,3 +3,7 @@ REDIS_HOST: redis.vydevops.space
 CATALOGUE_HOST: catalogue.vydevops.space
 CART_HOST: cart.vydevops.space
 MYSQL_HOST: mysql.vydevops.space
+RABBITMQ_HOST: rabbitmq.vydevops.space
+USER_HOST: user.vydevops.space
+SHIPPING_HOST: shipping.vydevops.space
+PAYMENT_HOST: payment.vydevops.space
